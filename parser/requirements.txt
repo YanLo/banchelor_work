@@ -11,6 +11,7 @@ chardet==3.0.4
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
+feedparser==5.2.1
 idna==2.10
 ipykernel==5.3.4
 ipython==7.18.1
@@ -31,6 +32,7 @@ nbclient==0.5.0
 nbconvert==6.0.6
 nbformat==5.0.7
 nest-asyncio==1.4.0
+newscatcher==0.2.0
 notebook==6.1.4
 numpy==1.19.2
 packaging==20.4
@@ -39,6 +41,7 @@ pandocfilters==1.4.2
 parso==0.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
+playsound==1.2.2
 prometheus-client==0.8.0
 prompt-toolkit==3.0.7
 ptyprocess==0.6.0
@@ -53,13 +56,19 @@ qtconsole==4.7.7
 QtPy==1.9.0
 regex==2020.7.14
 requests==2.24.0
+requests-file==1.5.1
+scipy==1.5.2
+selenium==3.141.0
 Send2Trash==1.5.0
 six==1.15.0
+sounddevice==0.4.1
 soupsieve==2.0.1
 terminado==0.9.1
 testpath==0.4.4
+tldextract==2.2.3
 tornado==6.0.4
 traitlets==5.0.4
+undetected-chromedriver==1.4.2
 urllib3==1.25.10
 wcwidth==0.2.5
 webencodings==0.5.1
